@@ -1,16 +1,22 @@
-### Hi there 👋
+# Seja bem-vindo(a)! 👋
 
-<!--
-**Lucas-Damasceno-dev/Lucas-Damasceno-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Lucas Damasceno e este é meu repositório no GitHub.
 
-Here are some ideas to get you started:
+## Sobre mim 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá! Sou um futuro desenvolvedor Backend e atualmente estou dando meus primeiros passos na carreira de desenvolvimento.
+
+## Aprendendo ⚡🌱
+
+- Algoritmos 
+- lógica de programação
+- Python
+
+## Contato 📫
+
+Você pode entrar em contato comigo por:
+
+    * Gmail: lucas.damasceno.dev@gmail.com
+    * LinkedIn: https://www.linkedin.com/in/lucas-da-concei%C3%A7%C3%A3o-damasceno-901b62264/
+
+Obrigado por visitar meu repositório!
