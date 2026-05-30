@@ -1,14 +1,14 @@
 # 👋 Hello! I'm Lucas Damasceno
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Computer+Engineering+Student;Technology+Enthusiast;Always+learning+something+new!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Computer+Engineering+Student;Spring+Boot+%7C+Angular+%7C+PostgreSQL" alt="Typing SVG" />
 </div>
 
 ## 🚀 About me
 
-**Computer Engineering** student at UEFS, focused on web development with **Spring Boot**, **Angular** and **PostgreSQL**. I transformed my experience in Construction into solid problem-solving and software architecture skills.
+**Computer Engineering** student at UEFS, focused on web development with **Spring Boot**, **Angular** and **PostgreSQL**. I transformed my experience in Construction into solid problem-solving and software development skills.
 
-- 🔭 Currently developing: **TaskFlow** and **SmartInventory**
+- 🔭 Currently developing: **duelling-protocol** and **smartfleet-hub**
 - 🌱 Learning: **Microservices** and **Clean Architecture**
 - 💬 Ask me about: **Spring Boot**, **Angular**
 - 📫 How to reach me: **lucas.damasceno.dev@gmail.com**
@@ -41,8 +41,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Damasceno-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Damasceno-dev&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Damasceno-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Damasceno-dev&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -53,17 +53,17 @@
 
 <div align="center">
 
-### 📋 TaskFlow - Project Management System
-[![TaskFlow](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Damasceno-dev&repo=TaskFlow&theme=tokyonight)](https://github.com/Lucas-Damasceno-dev/TaskFlow)
+### ⚔️ duelling-protocol
+[![duelling-protocol](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Damasceno-dev&repo=duelling-protocol&theme=tokyonight)](https://github.com/Lucas-Damasceno-dev/duelling-protocol)
 
 **Stack:** Spring Boot • Angular • PostgreSQL • Docker • AWS  
 **Features:** JWT Auth • WebSockets • Dashboard Analytics • CI/CD
 
-### 📦 SmartInventory - Intelligent Inventory Control  
-[![SmartInventory](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Damasceno-dev&repo=SmartInventory&theme=tokyonight)](https://github.com/Lucas-Damasceno-dev/SmartInventory)
+### 🚚 smartfleet-hub  
+[![smartfleet-hub](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Damasceno-dev&repo=smartfleet-hub&theme=tokyonight)](https://github.com/Lucas-Damasceno-dev/smartfleet-hub)
 
-**Stack:** Spring Boot • Angular PWA • PostgreSQL • Docker • AWS  
-**Features:** Barcode Scanner • Predictive Analytics • Real-time Alerts
+**Stack:** Spring Boot • Angular • PostgreSQL • Docker • AWS  
+**Features:** Fleet Tracking • Route Optimization • Real-time Alerts
 
 </div>
 
@@ -76,7 +76,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Danlrs/Danlrs/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ###
