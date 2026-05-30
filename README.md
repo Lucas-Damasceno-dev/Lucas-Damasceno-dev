@@ -54,13 +54,13 @@
 <div align="center">
 
 ### ⚔️ duelling-protocol
-[![duelling-protocol](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Damasceno-dev&repo=duelling-protocol&theme=tokyonight)](https://github.com/Lucas-Damasceno-dev/duelling-protocol)
+[![duelling-protocol](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Damasceno-dev&repo=duelling-protocol&theme=tokyonight&show_owner=true)](https://github.com/Lucas-Damasceno-dev/duelling-protocol)
 
 **Stack:** Spring Boot • Angular • PostgreSQL • Docker • AWS  
 **Features:** JWT Auth • WebSockets • Dashboard Analytics • CI/CD
 
 ### 🚚 smartfleet-hub  
-[![smartfleet-hub](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Damasceno-dev&repo=smartfleet-hub&theme=tokyonight)](https://github.com/Lucas-Damasceno-dev/smartfleet-hub)
+[![smartfleet-hub](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Damasceno-dev&repo=smartfleet-hub&theme=tokyonight&show_owner=true)](https://github.com/Lucas-Damasceno-dev/smartfleet-hub)
 
 **Stack:** Spring Boot • Angular • PostgreSQL • Docker • AWS  
 **Features:** Fleet Tracking • Route Optimization • Real-time Alerts
@@ -76,7 +76,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ###
